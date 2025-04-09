@@ -15,5 +15,4 @@ public class Operacaciones {
         System.out.println("El resultado de la Division es: "+(Num1 / Num2));
         System.out.println("El resultado de la Potencia es: "+Math.pow(Num1,Num2));
     }
-    
 }
