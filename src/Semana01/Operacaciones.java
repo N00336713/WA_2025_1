@@ -4,8 +4,10 @@ package Semana01;
 public class Operacaciones {
     public static void main(String[] args) {
         //Declarar variables
+<<<<<<;;
         int Num1 = 10;
-        int Num2 = 15;
+        int Num2 = 15; 
+        
         
         // Realizar operaciones
         
