@@ -6,5 +6,4 @@ public class Titulo {
         // TODO code application logic here
         System.out.println("Las Operaciones Basicas");
     }
-    
 }
